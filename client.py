@@ -20,6 +20,7 @@ while option != 0:
         break
     else:
         print("Invalid Option")
+        break
 
 print()
 menu()
